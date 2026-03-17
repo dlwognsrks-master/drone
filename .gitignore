@@ -1,0 +1,20 @@
+# 대용량 데이터/모델 파일
+artifacts/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude 메모리
+.claude/
+
+# 비행 로그
+*.ulg
+*.csv
+
+# 주피터
+.ipynb_checkpoints/
+
+# 환경
+.env
